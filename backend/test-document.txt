@@ -1,0 +1,16 @@
+FACTURA COMERCIAL
+
+Empresa: TechCorp S.A.
+Fecha: 15 de enero 2024
+Cliente: María García
+Producto: Laptop Dell XPS 13
+Cantidad: 1
+Precio unitario: $1,299.99
+Total: $1,299.99
+
+Forma de pago: Tarjeta de crédito
+Fecha de vencimiento: 15 de febrero 2024
+
+Por favor realizar el pago antes de la fecha de vencimiento.
+
+Gracias por su compra. 

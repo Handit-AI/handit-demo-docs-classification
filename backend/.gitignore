@@ -1,0 +1,121 @@
+# 🔒 Dependencies and packages
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json.backup
+
+# 🔐 Environment variables and secrets
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+
+# 🔑 API Keys and sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+config/secrets.js
+
+# 📄 Uploaded and temporary files
+uploads/
+temp/
+tmp/
+*.tmp
+*.temp
+/public/uploads/
+
+# 📊 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 🏗️ Build and distribution
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# 🧪 Testing
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# 💾 Cache directories
+.cache/
+.npm/
+.yarn/cache/
+.pnp/
+.pnp.js
+.eslintcache
+.stylelintcache
+
+# 📱 IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 🔧 OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 🚀 Runtime and process files
+.pid
+*.seed
+*.pid.lock
+pids/
+
+# 📦 Optional npm cache directory
+.npm
+
+# 📡 Optional eslint cache
+.eslintcache
+
+# 🎯 Handit.ai specific (if any local files)
+.handit/
+handit-cache/
+
+# 📋 Document processing artifacts
+processed-docs/
+extracted-text/
+ocr-output/
+
+# 🧩 Misc
+.serverless/
+.webpack/
+.parcel-cache/
+*.tgz
+*.tar.gz
+
+# 📖 Documentation builds
+docs/_build/
+
+# 🔬 Debugging
+.vscode-test/
+
+# 🌍 Internationalization
+*.mo
+
+# 💻 Local development overrides
+docker-compose.override.yml
+.env.override
