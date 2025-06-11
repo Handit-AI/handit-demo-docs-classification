@@ -296,7 +296,7 @@ curl http://localhost:3000/health
 - Verifica que tengas créditos en tu cuenta de OpenAI
 
 ### Contacto
-- 📧 Email: tu-email@ejemplo.com
+
 - 💬 Issues: [GitHub Issues](link-to-issues)
 
 ---
